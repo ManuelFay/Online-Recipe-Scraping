@@ -1,0 +1,10 @@
+venv
+.idea
+__pycache__
+*.pyc
+*.pickle
+.zst
+.zip
+.xz
+*.egg-info
+runs/
